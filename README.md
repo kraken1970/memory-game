@@ -3,6 +3,8 @@
 попарно переворачивая, видны картинки на 2 секундыю
 В случае совпадения они остаются, иначе - переворачиваются, и игра продолжается.
 Надо найти все 8 совпадений.
+
+deploy in heroku
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
