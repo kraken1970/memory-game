@@ -71,8 +71,9 @@ export default function App() {
 
   return (
     <div>
-      <h1>Memory</h1>
-      <h2>Can you remember where the cards are?</h2>
+      <h1>Память</h1>
+      <h2>Вспоминайте где какие карты. Задача: открыть попарно. Удачи!</h2>
+      {/* <h2>Задача: открыть попарно. Удачи!</h2> */}
 
       <Board
         dimension={dimension}
